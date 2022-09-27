@@ -1,0 +1,36 @@
+h1 {
+    font-size: 40;
+    color: white;
+    text-align: center;
+    
+}
+.pic1 {
+    color: white;
+}
+.pic2 {
+    color: rgb(32, 3, 196);
+}
+p {
+    color: rgb(75, 253, 5);
+}
+.div1 {
+    display: flex;
+    flex-direction: row;
+}
+.div2 {
+    display: flex;
+    flex-direction: row-reverse;
+}
+div {
+    padding: 5px;
+    font-size: 25;
+}
+div > img {
+    height: 500;
+    width: 500;
+}
+p {
+    border: dotted;
+    padding: 50px;
+    margin: 5px;
+}

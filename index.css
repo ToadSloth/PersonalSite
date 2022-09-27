@@ -1,0 +1,12 @@
+/* @import url(https://fonts.google.com/specimen/Press+Start+2P?subset=greek);  */
+/* @import url(https://fonts.google.com/specimen/Aref+Ruqaa+Ink?subset=arabic); */
+
+main > img {padding: 50px;
+    height: 500px;
+}
+
+h1 {
+    font-size: 40;
+    color: rgb(216, 130, 151);
+    text-align: center;
+}
